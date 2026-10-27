@@ -3,7 +3,7 @@
 A deep learning project built to predict customer churn using an Artificial Neural Network (ANN). Developed and trained on Kaggle with Tesla T4 GPU acceleration, achieving **86.35% test accuracy**.
 
 ## 🚀 Project Overview
-Customer churn is a critical metric for subscription-based businesses. This model analyzes customer demographic, behavioral, and account attributes to identify whether a customer is likely to stay or leave.
+Customer churn is a critical metric for subscription-based businesses. This model analyzes customer demographic, behavioral, and account attributes to identify whether a customer is likely to stay or leave.  
 
 ## 🧠 Model Architecture
 The neural network is built using a sequential API in Keras:
