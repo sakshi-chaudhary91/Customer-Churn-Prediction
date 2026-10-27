@@ -12,7 +12,7 @@ The neural network is built using a sequential API in Keras:
 * **Hidden Layer 2:** Dense (16 neurons, `ReLU` activation)
 * **Output Layer:** Dense (1 neuron, `Sigmoid` activation for binary output)
 
-## 📊 Performance & Results
+## 📊 Performance & Results 
 * **Test Accuracy:** 86.35%
 * **Optimization:** Adam Optimizer with binary crossentropy loss.
 * **Regularization:** Early stopping implemented on validation loss (`patience=10`) to prevent overfitting.
