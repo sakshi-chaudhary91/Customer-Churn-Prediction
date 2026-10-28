@@ -14,7 +14,7 @@ The neural network is built using a sequential API in Keras:
 
 ## 📊 Performance & Results 
 * **Test Accuracy:** 86.35%
-* **Optimization:** Adam Optimizer with binary crossentropy loss.
+* **Optimization:** Adam Optimizer with binary crossentropy loss. 
 * **Regularization:** Early stopping implemented on validation loss (`patience=10`) to prevent overfitting.
 
 ## 🛠️ Tech Stack & Libraries
