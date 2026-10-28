@@ -10,7 +10,7 @@ The neural network is built using a sequential API in Keras:
 * **Input Layer:** 11 features (`input_shape=(11,)`)
 * **Hidden Layer 1:** Dense (32 neurons, `ReLU` activation)
 * **Hidden Layer 2:** Dense (16 neurons, `ReLU` activation)
-* **Output Layer:** Dense (1 neuron, `Sigmoid` activation for binary output)
+* **Output Layer:** Dense (1 neuron, `Sigmoid` activation for binary output) 
 
 ## 📊 Performance & Results 
 * **Test Accuracy:** 86.35%
